@@ -17,3 +17,17 @@ main:hover {
   box-shadow: 0 10px 12px rgba(0, 0, 0, 0.2);
   background: linear-gradient(135deg, #feb47b, #f7f2f5);
 }
+
+.text {
+  text-align: center;
+  color: rgb(217, 94, 72);
+}
+
+.box {
+  width: 150px;
+  height: auto;
+  background: lightgray;
+  margin: 20px;
+  padding: 20px;
+  border: 3px solid rgb(43, 78, 75);
+}
